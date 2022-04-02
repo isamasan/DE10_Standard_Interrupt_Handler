@@ -1,0 +1,12 @@
+
+To compile the kernel module use the following command:
+
+  make
+
+To run the module (insert the module into the kernel):
+
+  insmod proyecto.ko
+
+To stop the module (remove from kernel):
+
+  rmmod proyecto

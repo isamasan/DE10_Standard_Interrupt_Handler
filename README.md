@@ -11,6 +11,4 @@ In the first mode, the servomotors are controlled using two of the push-buttons 
 In the second mode, the two degrees of tilt detected by the accelerometer are used to control the servomotors. Tilt in the X-axis, the longitudinal axis of the accelerometer, controls one servomotor and tilt in the Y-axis, the transverse axis, controls the other. In both cases the servomotors are controlled in the same way: by PWM signals. This type of signal is also the way the accelerometer encodes the information it collects. 
 
 In addition to this, the time progress is continuously shown on the 7-segment display, showing the minutes, seconds and tenths of a second elapsed since the start-up.
-
-For a full description of the project, read the 'report.pdf' file.
  
